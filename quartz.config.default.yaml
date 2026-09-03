@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Overberg BioRegion
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: at12-overberg.bioconomy.earth
   ignorePatterns:
     - private
     - templates
@@ -203,8 +203,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        BioConomy Wiki: https://wiki.bioconomy.earth
+        GitHub: https://github.com/mbh66/at12-overberg
     layout:
       position: footer
       priority: 50
